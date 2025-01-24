@@ -1,0 +1,409 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "m2yeHAbceMInkDSA5lHiTBS_NeI",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "G5AX4hnH5nLCt0cdKQHbbgHvrlQ",
+      "id": "q_sDeIGSbf0",
+      "snippet": {
+        "publishedAt": "2025-01-29T10:33:55Z",
+        "channelId": "UCe52oeb7Xv_KaJsEzcKXJJg",
+        "title": "[2024 MBC 가요대제전] Lee Eunji X MIMI X Lee Youngji X AN YUJIN - Fire + I Am The Best, MBC 250129 방송",
+        "description": "★★★More clips are available★★★\n\niMBC\nhttps://program.imbc.com/2024gayo\n\nⓒ MBC&iMBC 무단 전재, 재배포 및 이용(AI학습 포함) 금지",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/q_sDeIGSbf0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/q_sDeIGSbf0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/q_sDeIGSbf0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/q_sDeIGSbf0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/q_sDeIGSbf0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MBCkpop",
+        "tags": [
+          "이은지",
+          "미미",
+          "이영지",
+          "안유진",
+          "Fire",
+          "내가 제일 잘 나가",
+          "Lee Eunji",
+          "MIMI",
+          "Lee Youngji",
+          "AN YUJIN",
+          "I Am The Best",
+          "2024MBC가요대제전",
+          "민호",
+          "임윤아",
+          "도훈",
+          "가요대제전"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[2024 MBC 가요대제전] Lee Eunji X MIMI X Lee Youngji X AN YUJIN - Fire + I Am The Best, MBC 250129 방송",
+          "description": "★★★More clips are available★★★\n\niMBC\nhttps://program.imbc.com/2024gayo\n\nⓒ MBC&iMBC 무단 전재, 재배포 및 이용(AI학습 포함) 금지"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT4M",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "regionRestriction": {
+          "blocked": ["JP"]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "806839",
+        "likeCount": "30980",
+        "favoriteCount": "0",
+        "commentCount": "1868"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "la2f0EsFTPuBFRguCsbPXMRGgxY",
+      "id": "9tBXHqpY5jw",
+      "snippet": {
+        "publishedAt": "2025-01-29T10:27:27Z",
+        "channelId": "UCe52oeb7Xv_KaJsEzcKXJJg",
+        "title": "[2024 MBC 가요대제전] YUNA X KARINA X SULLYOON - pocket locket, MBC 250129 방송",
+        "description": "★★★More clips are available★★★\n\niMBC\nhttps://program.imbc.com/2024gayo\n\nⓒ MBC&iMBC 무단 전재, 재배포 및 이용(AI학습 포함) 금지",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9tBXHqpY5jw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9tBXHqpY5jw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9tBXHqpY5jw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9tBXHqpY5jw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9tBXHqpY5jw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MBCkpop",
+        "tags": [
+          "유나",
+          "카리나",
+          "설윤",
+          "pocket locket",
+          "YUNA",
+          "KARINA",
+          "SULLYOON",
+          "2024MBC가요대제전",
+          "민호",
+          "임윤아",
+          "도훈",
+          "가요대제전"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[2024 MBC 가요대제전] YUNA X KARINA X SULLYOON - pocket locket, MBC 250129 방송",
+          "description": "★★★More clips are available★★★\n\niMBC\nhttps://program.imbc.com/2024gayo\n\nⓒ MBC&iMBC 무단 전재, 재배포 및 이용(AI학습 포함) 금지"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M40S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "regionRestriction": {
+          "blocked": ["JP"]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "883081",
+        "likeCount": "60469",
+        "favoriteCount": "0",
+        "commentCount": "6219"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Qzjkxm3bIgkWpt0LLMgQv5O73QA",
+      "id": "dccQdQ5zWkI",
+      "snippet": {
+        "publishedAt": "2025-01-28T22:50:00Z",
+        "channelId": "UCh4o9ioiqbUveUrCLP8Wv6A",
+        "title": "G-Dragon x Taeyang : \"Power\", \"Home Sweet Home\" et \"Good Boy\" - Gala des Pièces Jaunes 2025",
+        "description": "Retrouvez l’intégralité du Gala des Pièces Jaunes  2025 sur / Watch the full Pièces Jaunes Gala 2025 on :\nYouTube ➡️   https://www.youtube.com/live/7q6n4n_pHP0\nfrance.tv ➡️  https://bit.ly/GalaDesPiecesJaunes2025\n\nLes plus grandes stars internationales et françaises réunies pour une soirée mémorable présentée par Teddy Riner avec des artistes légendaires de la pop, de la K-pop et du classique : Katy Perry, Rosé, j-hope (de BTS), John Legend, Aya Nakamura, Burna Boy, J Balvin, Gims, Lang Lang, Pretty Yende, G-Dragon, Taeyang, Gautier Capuçon...\n\n👉 Pour contribuer au financement de nombreux projets dans les hôpitaux publics et pédiatriques français, vous pouvez faire un don à la Fondation des hôpitaux : rendez-vous sur piecesjaunes.fr ou envoyez DON par SMS au 92 111 \n\n#Galadespiecesjaunes #PiècesJaunes #concert #jhope #jhopebts #rosé #katyperry #johnlegend #jbalvin #taeyang #gdragon #burnaboy #ayanakamura #gims #gautiercapucon #Prettyyende #langlang #YellowCoinsGala #방탄소년단",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dccQdQ5zWkI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dccQdQ5zWkI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dccQdQ5zWkI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dccQdQ5zWkI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dccQdQ5zWkI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "france tv",
+        "tags": [
+          "G-Dragon Power",
+          "Taeyang Power",
+          "G-Dragon Home Sweet Home",
+          "Taeyang Home Sweet Home",
+          "G-Dragon GOODBOY",
+          "Taeyang GOODBOY",
+          "G-Dragon x Taeyang gala",
+          "Gala des Pièces Jaunes 2025",
+          "concert pièces jaunes",
+          "Yellow Coins gala G-Dragon",
+          "Yellow Coins gala Taeyang",
+          "G-Dragon live Paris",
+          "Taeyang live Paris",
+          "Power live G-Dragon",
+          "GOODBOY live Taeyang",
+          "Home Sweet Home live",
+          "Pieces jaunes gala G-Dragon",
+          "Pieces jaunes gala Taeyang"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "G-Dragon x Taeyang : \"Power\", \"Home Sweet Home\" et \"Good Boy\" - Gala des Pièces Jaunes 2025",
+          "description": "Retrouvez l’intégralité du Gala des Pièces Jaunes  2025 sur / Watch the full Pièces Jaunes Gala 2025 on :\nYouTube ➡️   https://www.youtube.com/live/7q6n4n_pHP0\nfrance.tv ➡️  https://bit.ly/GalaDesPiecesJaunes2025\n\nLes plus grandes stars internationales et françaises réunies pour une soirée mémorable présentée par Teddy Riner avec des artistes légendaires de la pop, de la K-pop et du classique : Katy Perry, Rosé, j-hope (de BTS), John Legend, Aya Nakamura, Burna Boy, J Balvin, Gims, Lang Lang, Pretty Yende, G-Dragon, Taeyang, Gautier Capuçon...\n\n👉 Pour contribuer au financement de nombreux projets dans les hôpitaux publics et pédiatriques français, vous pouvez faire un don à la Fondation des hôpitaux : rendez-vous sur piecesjaunes.fr ou envoyez DON par SMS au 92 111 \n\n#Galadespiecesjaunes #PiècesJaunes #concert #jhope #jhopebts #rosé #katyperry #johnlegend #jbalvin #taeyang #gdragon #burnaboy #ayanakamura #gims #gautiercapucon #Prettyyende #langlang #YellowCoinsGala #방탄소년단"
+        },
+        "defaultAudioLanguage": "fr"
+      },
+      "contentDetails": {
+        "duration": "PT9M47S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1070486",
+        "likeCount": "68135",
+        "favoriteCount": "0",
+        "commentCount": "11069"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "2zziqbiTBPcU8-p0iL853-N1kTY",
+      "id": "gsJa9eEPGwE",
+      "snippet": {
+        "publishedAt": "2025-01-29T16:29:34Z",
+        "channelId": "UCmjNKt6kITwaZTqvWuaSPLg",
+        "title": "“제가 해냈습니다” 유재석, 대상 수상!",
+        "description": "2024 SBS 연예대상\n\n#2024SBS연예대상 #유재석 #대상\n\nCopyright ⓒ SBS. All rights reserved.\n무단 전재, 재배포 및 AI학습 이용 금지\n\n*프로그램 다시 보기\n\n✔ SBS홈페이지:\nhttps://programs.sbs.co.kr/tv/youtube?co=youtube&type=tv&content_id=E468711392&yt_channel=SBSEntertainment\n✔ WAVVE:\nhttps://www.wavve.com/player/vod?contentid=S01_E468711392.1&utm_campaign=2023_SBS&utm_source=youtube&utm_medium=movcon&utm_contents=SBSEntertainment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gsJa9eEPGwE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gsJa9eEPGwE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gsJa9eEPGwE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gsJa9eEPGwE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gsJa9eEPGwE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SBS Entertainment",
+        "tags": [
+          "sbs",
+          "20250129",
+          "유재석",
+          "대상",
+          "연예대상",
+          "2024연예대상",
+          "2024SBS연예대상",
+          "SBS연예대상",
+          "2024SBS연예대상방송",
+          "2024SBS연예대상하이라이트"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "“제가 해냈습니다” 유재석, 대상 수상!",
+          "description": "2024 SBS 연예대상\n\n#2024SBS연예대상 #유재석 #대상\n\nCopyright ⓒ SBS. All rights reserved.\n무단 전재, 재배포 및 AI학습 이용 금지\n\n*프로그램 다시 보기\n\n✔ SBS홈페이지:\nhttps://programs.sbs.co.kr/tv/youtube?co=youtube&type=tv&content_id=E468711392&yt_channel=SBSEntertainment\n✔ WAVVE:\nhttps://www.wavve.com/player/vod?contentid=S01_E468711392.1&utm_campaign=2023_SBS&utm_source=youtube&utm_medium=movcon&utm_contents=SBSEntertainment"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT4M51S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "regionRestriction": {
+          "blocked": ["AU", "ID", "MY", "NZ", "PH", "SG", "TH", "VN"]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "513535",
+        "likeCount": "10923",
+        "favoriteCount": "0",
+        "commentCount": "1716"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "vf_PhoKR3rvm3QQoRRW2X15mUAg",
+      "id": "BaYeJ75uok0",
+      "snippet": {
+        "publishedAt": "2025-01-29T12:21:02Z",
+        "channelId": "UCmjNKt6kITwaZTqvWuaSPLg",
+        "title": "‘런닝맨’ 지예은×강훈, 라이징 스타상 수상!",
+        "description": "2024 SBS 연예대상\n\n#2024SBS연예대상 #지예은 #강훈\n\nCopyright ⓒ SBS. All rights reserved.\n무단 전재, 재배포 및 AI학습 이용 금지\n\n*프로그램 다시 보기\n\n✔ SBS홈페이지:\nhttps://programs.sbs.co.kr/tv/youtube?co=youtube&type=tv&content_id=E468711392&yt_channel=SBSEntertainment\n✔ WAVVE:\nhttps://www.wavve.com/player/vod?contentid=S01_E468711392.1&utm_campaign=2023_SBS&utm_source=youtube&utm_medium=movcon&utm_contents=SBSEntertainment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BaYeJ75uok0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BaYeJ75uok0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BaYeJ75uok0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BaYeJ75uok0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BaYeJ75uok0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SBS Entertainment",
+        "tags": [
+          "sbs",
+          "20250129",
+          "지예은",
+          "강훈",
+          "라이징스타상",
+          "연예대상",
+          "2024연예대상",
+          "2024SBS연예대상",
+          "SBS연예대상",
+          "2024SBS연예대상방송",
+          "2024SBS연예대상하이라이트"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "‘런닝맨’ 지예은×강훈, 라이징 스타상 수상!",
+          "description": "2024 SBS 연예대상\n\n#2024SBS연예대상 #지예은 #강훈\n\nCopyright ⓒ SBS. All rights reserved.\n무단 전재, 재배포 및 AI학습 이용 금지\n\n*프로그램 다시 보기\n\n✔ SBS홈페이지:\nhttps://programs.sbs.co.kr/tv/youtube?co=youtube&type=tv&content_id=E468711392&yt_channel=SBSEntertainment\n✔ WAVVE:\nhttps://www.wavve.com/player/vod?contentid=S01_E468711392.1&utm_campaign=2023_SBS&utm_source=youtube&utm_medium=movcon&utm_contents=SBSEntertainment"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT4M25S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "regionRestriction": {
+          "blocked": ["AU", "ID", "MY", "NZ", "PH", "SG", "TH", "VN"]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "319361",
+        "likeCount": "6823",
+        "favoriteCount": "0",
+        "commentCount": "830"
+      }
+    }
+  ],
+  "nextPageToken": "CAUQAA",
+  "pageInfo": {
+    "totalResults": 200,
+    "resultsPerPage": 5
+  }
+}

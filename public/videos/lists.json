@@ -1,0 +1,862 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "P9QXG-nm1PQwHa3B3riCUOEHTks",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 771919,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3TCeM0w64M9YXmThjGsECKV1O34",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LNxVtBCZ6P8"
+      },
+      "snippet": {
+        "publishedAt": "2024-10-24T17:13:20Z",
+        "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+        "title": "This or That: League of Legends Edition w/ Son Heung-min",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LNxVtBCZ6P8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LNxVtBCZ6P8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LNxVtBCZ6P8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "League of Legends",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-10-24T17:13:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jDomA2WxzndYX-6XkN3BjRy6H_M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-_drddm-ku4"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-20T17:22:14Z",
+        "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+        "title": "New Dreams: Orianna’s Vlog - Star Guardian 2022 | #Shorts - League of Legends: Wild Rift",
+        "description": "My_First_Video_Diary_V4.0.mp4 ABOUT THE GAME Dive into Wild Rift: the skills-and-strats 5v5 MOBA experience of League of ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-_drddm-ku4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-_drddm-ku4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-_drddm-ku4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "League of Legends",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-20T17:22:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "b46xYhEjRAOccvAFjqIqOWGBiPU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mPOAaZyGe30"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-14T23:00:16Z",
+        "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+        "title": "New Dreams: Seraphine’s Vlog - Star Guardian 2022 | #Shorts - League of Legends: Wild Rift",
+        "description": "readysetgo_final_THEREALFINAL_oknomoreedits.mov ABOUT THE GAME Dive into Wild Rift: the skills-and-strats 5v5 MOBA ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mPOAaZyGe30/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mPOAaZyGe30/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mPOAaZyGe30/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "League of Legends",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-14T23:00:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ihFrRFooc3KQYoBQ1xYZA3B6GAc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bzVTONHA5h4"
+      },
+      "snippet": {
+        "publishedAt": "2023-08-30T15:00:26Z",
+        "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+        "title": "Feeding Frenzy | Briar Cinematic - League of Legends",
+        "description": "After years behind bars in Noxus, Briar is starving for some action. Video created in collaboration with Brunch Eddy. League of ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bzVTONHA5h4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bzVTONHA5h4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bzVTONHA5h4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "League of Legends",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-08-30T15:00:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Exj44kW0criBoOrs3XFQT83a1zY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jNn2F39G-6s"
+      },
+      "snippet": {
+        "publishedAt": "2020-03-13T17:00:17Z",
+        "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+        "title": "Fiddlesticks: Terror in Demacia | Champion Update Trailer - League of Legends",
+        "description": "An ancient fear awakens. League of Legends Sign Up & Download https://signup.leagueoflegends.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jNn2F39G-6s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jNn2F39G-6s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jNn2F39G-6s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "League of Legends",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-03-13T17:00:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WMnh9w-hfzm5h4pl6Elot4nIJWI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gS06-Dhl9ic"
+      },
+      "snippet": {
+        "publishedAt": "2016-10-21T23:24:55Z",
+        "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+        "title": "Playmaker: Catalyst -- Reignover | League of Legends",
+        "description": "Mistakes are opportunities, you know?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gS06-Dhl9ic/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gS06-Dhl9ic/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gS06-Dhl9ic/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "League of Legends",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-10-21T23:24:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mQncKrOPfO6igk-M-7tMSGQ0W1Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xIWsch7cumQ"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-21T05:55:52Z",
+        "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+        "title": "HOUNDS OF IRON | Naafiri Cinematic - League of Legends",
+        "description": "Her pack will always find the lone prey. So, the choice is yours: starve or feast. Video created in collaboration with We Are Royale.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xIWsch7cumQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xIWsch7cumQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xIWsch7cumQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "League of Legends",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-21T05:55:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ylXOp5RCiwbAjc-_MfPNgI9UcUw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wOJAErCvVhs"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-27T19:00:17Z",
+        "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+        "title": "Volibear, The Relentless Storm | Champion Theme - League of Legends",
+        "description": "The official champion theme for Volibear, the Relentless Storm. This war-hymn of the Ursine appears to be a fragment of the much ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wOJAErCvVhs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wOJAErCvVhs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wOJAErCvVhs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "League of Legends",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-27T19:00:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bwg1oEM8hwAGoOphnS1eAn0YFrU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lbJhZW-iN0s"
+      },
+      "snippet": {
+        "publishedAt": "2020-04-29T17:00:32Z",
+        "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+        "title": "Tales of Runeterra: Bilgewater | “Double-Double Cross” - League of Legends",
+        "description": "Bilgewater is ripe with opportunity; do you have the coin for it? Play now at https://playruneterra.com Down on the slaughter docks, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lbJhZW-iN0s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lbJhZW-iN0s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lbJhZW-iN0s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "League of Legends",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-04-29T17:00:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9qjZ28WnM93UC56TNB9HUMWArEQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RkID8_gnTxw"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-27T19:00:09Z",
+        "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+        "title": "K/DA - THE BADDEST ft. (G)I-DLE, Bea Miller, Wolftyla (Official Lyric Video) | League of Legends",
+        "description": "Follow @KDA_MUSIC on Twitter and Instagram for daily updates. Call it a flex. Witness K/DA's comeback with their pre-release ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RkID8_gnTxw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RkID8_gnTxw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RkID8_gnTxw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "League of Legends",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-27T19:00:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7vNl4PGzAg7drTq20OIwkL7kuAo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tq9bB6QPAdA"
+      },
+      "snippet": {
+        "publishedAt": "2020-03-14T17:00:30Z",
+        "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+        "title": "Fiddlesticks, The Ancient Fear | Champion Theme - League of Legends",
+        "description": "The official champion theme for Fiddlesticks, The Ancient Fear. Uncover the development behind Fiddlesticks's haunting visual ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tq9bB6QPAdA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tq9bB6QPAdA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tq9bB6QPAdA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "League of Legends",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-03-14T17:00:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6nQQEeJZxayv9WWdMQV_A-9P5Po",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "eEFVxI9lqjU"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-14T14:55:10Z",
+        "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+        "title": "Everything Goes On - Porter Robinson (Official Music Video) | Star Guardian 2022",
+        "description": "Together with some familiar faces, a new generation of Star Guardians ascend to battle a looming threat. But even when ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eEFVxI9lqjU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eEFVxI9lqjU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eEFVxI9lqjU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "League of Legends",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-14T14:55:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jMSQtUuFb5F9jYrMMAxFYzNRz-k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hjPS3j5XNss"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-20T16:44:11Z",
+        "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+        "title": "All That Will Ever Be | Bel&#39;Veth Cinematic - League of Legends",
+        "description": "Let the Lavender Sea take you. Want to find out what happens next? Read \"Pinwheel\": ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hjPS3j5XNss/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hjPS3j5XNss/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hjPS3j5XNss/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "League of Legends",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-20T16:44:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zsg7urhQNHCoXtEMGUZ6RV8EywE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0nlJuwO0GDs"
+      },
+      "snippet": {
+        "publishedAt": "2013-10-08T21:03:41Z",
+        "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+        "title": "Get Jinxed (ft. Djerv) | Official Music Video - League of Legends",
+        "description": "Download and Play League of Legends: http://signup.leagueoflegends.com Jinx's dreams come alive in a hexplosive sequence ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0nlJuwO0GDs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0nlJuwO0GDs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0nlJuwO0GDs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "League of Legends",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-10-08T21:03:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "u-DkofoICFAa8gToX4vT_qqc32E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zF5Ddo9JdpY"
+      },
+      "snippet": {
+        "publishedAt": "2019-01-21T12:00:04Z",
+        "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+        "title": "Awaken | Season 2019 Cinematic - League of Legends (ft. Valerie Broussard)",
+        "description": "A deadly masterpiece unfolds. A lone resistance made whole. A chance to come alive. Season 2019 has begun - why will you ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zF5Ddo9JdpY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zF5Ddo9JdpY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zF5Ddo9JdpY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "League of Legends",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-01-21T12:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rv8JYkmduWIghnAgDxgUncwpx3U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "aR-KAldshAE"
+      },
+      "snippet": {
+        "publishedAt": "2020-01-09T12:00:16Z",
+        "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+        "title": "Warriors | Season 2020 Cinematic - League of Legends (ft. 2WEI and Edda Hayes)",
+        "description": "Warriors: We are warriors. Season 2020 has begun. LISTEN NOW: https://smarturl.it/warriorslol Spotify: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aR-KAldshAE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aR-KAldshAE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aR-KAldshAE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "League of Legends",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-01-09T12:00:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2y85udNnauSzdEXh8A2p79ODINs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EIwtr-VqwcM"
+      },
+      "snippet": {
+        "publishedAt": "2016-01-14T14:16:37Z",
+        "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+        "title": "Warsongs: PROJECT: Yi (Vicetone Remix) | Music - League of Legends",
+        "description": "Amp up your in-game plays by injecting new beats into classic League of Legends tunes. Warsongs is a new collection of remixed ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EIwtr-VqwcM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EIwtr-VqwcM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EIwtr-VqwcM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "League of Legends",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-01-14T14:16:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HqK7GLRHFO7C6TiEOllDIjVc-XU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "f9M7O-uqPf8"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-12T15:00:36Z",
+        "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+        "title": "Naafiri Champion Theme | League of Legends",
+        "description": "Listen to the official theme for Naafiri, The Hound of a Hundred Bites. LISTEN NOW: https://found.ee/Naafiri ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/f9M7O-uqPf8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/f9M7O-uqPf8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/f9M7O-uqPf8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "League of Legends",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-12T15:00:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cjO0FyFHl4CzOMjEdrqXQ9Vxc9Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "r6zIGXun57U"
+      },
+      "snippet": {
+        "publishedAt": "2017-10-18T13:00:08Z",
+        "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+        "title": "Legends Never Die (ft. Against The Current) | Worlds 2017 - League of Legends",
+        "description": "The pursuit of mastery is an endless journey, but those who persevere etch their names in history. For more information on the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/r6zIGXun57U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/r6zIGXun57U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/r6zIGXun57U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "League of Legends",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-10-18T13:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "u4W6YhwbrsyCP-D14Vd3Gd3f8ks",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "G8tL3g-gDjo"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-19T09:39:20Z",
+        "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+        "title": "Hwei: The Visionary | Champion Trailer - League of Legends",
+        "description": "He who drowns in colors will leave others breathless — for better or worse. Hwei Ability Rundown Page: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/G8tL3g-gDjo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/G8tL3g-gDjo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/G8tL3g-gDjo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "League of Legends",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-19T09:39:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yNEubjdF9Q_qa1Zp77lP9U29kjw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vzNcSvKCOyA"
+      },
+      "snippet": {
+        "publishedAt": "2017-11-30T15:21:18Z",
+        "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+        "title": "As We Fall | Varus Music Video - League of Legends",
+        "description": "Witness the incarnation of vengeance. Part 2 of the Retribution arc. PART ONE AND THREE OF THE RETRIBUTION ARC HERE: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vzNcSvKCOyA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vzNcSvKCOyA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vzNcSvKCOyA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "League of Legends",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-11-30T15:21:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KsYlNHQBzmmIbJazT9iaLjjSrHQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sVZpHFXcFJw"
+      },
+      "snippet": {
+        "publishedAt": "2019-11-10T12:08:40Z",
+        "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+        "title": "True Damage - GIANTS (ft. Becky G, Keke Palmer, SOYEON, DUCKWRTH, Thutmose) | League of Legends",
+        "description": "We're wide awake now. Listen to True Damage's debut single “GIANTS,” as seen at Worlds 2019. Formed by K/DA's rapper Akali ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sVZpHFXcFJw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sVZpHFXcFJw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sVZpHFXcFJw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "League of Legends",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-11-10T12:08:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rWGa3zB_rH1AuQtyc2UAay1PiAU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZjvDFvzfxsQ"
+      },
+      "snippet": {
+        "publishedAt": "2019-10-16T01:15:28Z",
+        "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+        "title": "Senna: Shadow’s Embrace | Champion Animated Trailer - League of Legends",
+        "description": "Those trapped in darkness need light the most. Music by Riot Music Team. Additional production by The Crystal Method.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZjvDFvzfxsQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZjvDFvzfxsQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZjvDFvzfxsQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "League of Legends",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-10-16T01:15:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RLZwceG7ZYVtcfYw3sMy6Q_kL_c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fmI_Ndrxy14"
+      },
+      "snippet": {
+        "publishedAt": "2014-09-17T20:57:35Z",
+        "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+        "title": "Warriors (ft. Imagine Dragons) | Worlds 2014 - League of Legends",
+        "description": "The battle begins, and sixteen teams across the globe are fighting towards one goal – to win the League of Legends World ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fmI_Ndrxy14/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fmI_Ndrxy14/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fmI_Ndrxy14/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "League of Legends",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-09-17T20:57:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1fTSpCZYG2ZK-hJCJx2pPeJDnHo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "F5tSoaJ93ac"
+      },
+      "snippet": {
+        "publishedAt": "2021-10-28T11:00:05Z",
+        "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+        "title": "Imagine Dragons &amp; JID - Enemy (from the series Arcane: League of Legends) | Official Music Video",
+        "description": "Oh, the misery, everybody wants to be my ENEMY. Watch the official music video for Arcane's title track, Enemy. Arcane is coming ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/F5tSoaJ93ac/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/F5tSoaJ93ac/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/F5tSoaJ93ac/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "League of Legends",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-10-28T11:00:05Z"
+      }
+    }
+  ]
+}

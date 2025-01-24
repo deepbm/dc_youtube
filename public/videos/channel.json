@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#channelListResponse",
+  "etag": "wDrzvPpiF6EZ6Nf7bo33NdM7lSA",
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#channel",
+      "etag": "3dHm4hT_qTLC4Yc3fQFIkez_d1w",
+      "id": "UC2t5bjwHdUX4vM2g8TRDq5g",
+      "snippet": {
+        "title": "League of Legends",
+        "description": "Recently recognized as the most played video game in the world—100 million play every month—League of Legends® is a multiplayer online battle arena game (MOBA).\n\nPlayers choose a role from an expanding cast of powerful champions and join forces in strategic, fast-paced gameplay to take control of the enemy’s end of the battlefield.\n\nSign up for a free League of Legends account at http://riot.com/signup",
+        "customUrl": "@leagueoflegends",
+        "publishedAt": "2009-02-09T20:19:08Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/HBZyL_CmVZnO2wKMOc9AIyT6C9F0JfJTGNJGUjVYVZtjJL54oymJ2azcdLaRqZSYdz2lrbGj2Q=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/HBZyL_CmVZnO2wKMOc9AIyT6C9F0JfJTGNJGUjVYVZtjJL54oymJ2azcdLaRqZSYdz2lrbGj2Q=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/HBZyL_CmVZnO2wKMOc9AIyT6C9F0JfJTGNJGUjVYVZtjJL54oymJ2azcdLaRqZSYdz2lrbGj2Q=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "League of Legends",
+          "description": "Recently recognized as the most played video game in the world—100 million play every month—League of Legends® is a multiplayer online battle arena game (MOBA).\n\nPlayers choose a role from an expanding cast of powerful champions and join forces in strategic, fast-paced gameplay to take control of the enemy’s end of the battlefield.\n\nSign up for a free League of Legends account at http://riot.com/signup"
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UU2t5bjwHdUX4vM2g8TRDq5g"
+        }
+      },
+      "statistics": {
+        "viewCount": "8667575033",
+        "subscriberCount": "15700000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "1536"
+      }
+    }
+  ]
+}

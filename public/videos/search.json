@@ -1,0 +1,844 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "2qqFLx3JaO9u6hYoE-NJq-gAhUs",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nzB2Imo8s3BYYGWec1ssK116D2U",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g"
+      },
+      "snippet": {
+        "publishedAt": "2009-02-09T20:19:08Z",
+        "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+        "title": "League of Legends",
+        "description": "Recently recognized as the most played video game in the world—100 million play every month—League of Legends® is a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/HBZyL_CmVZnO2wKMOc9AIyT6C9F0JfJTGNJGUjVYVZtjJL54oymJ2azcdLaRqZSYdz2lrbGj2Q=s88-c-k-c0xffffffff-no-rj-mo"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/HBZyL_CmVZnO2wKMOc9AIyT6C9F0JfJTGNJGUjVYVZtjJL54oymJ2azcdLaRqZSYdz2lrbGj2Q=s240-c-k-c0xffffffff-no-rj-mo"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/HBZyL_CmVZnO2wKMOc9AIyT6C9F0JfJTGNJGUjVYVZtjJL54oymJ2azcdLaRqZSYdz2lrbGj2Q=s800-c-k-c0xffffffff-no-rj-mo"
+          }
+        },
+        "channelTitle": "League of Legends",
+        "liveBroadcastContent": "none",
+        "publishTime": "2009-02-09T20:19:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GD7CMb1JUeStOjOGp-DdZnFkqgU",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UCvqRdlKsE5Q8mf8YXbdIJLw"
+      },
+      "snippet": {
+        "publishedAt": "2012-09-27T22:35:21Z",
+        "channelId": "UCvqRdlKsE5Q8mf8YXbdIJLw",
+        "title": "LoL Esports",
+        "description": "Are you looking to up your game or keep track of all things in the League of Legends pro scene? You've come to the right place.",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/wDms1CKlgBycJM2VurODhLJRQUJry8w6WxKFUfMoEdoZSf3j1NmpkDNWCaL1slK8SYCzYIERXA=s88-c-k-c0xffffffff-no-rj-mo"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/wDms1CKlgBycJM2VurODhLJRQUJry8w6WxKFUfMoEdoZSf3j1NmpkDNWCaL1slK8SYCzYIERXA=s240-c-k-c0xffffffff-no-rj-mo"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/wDms1CKlgBycJM2VurODhLJRQUJry8w6WxKFUfMoEdoZSf3j1NmpkDNWCaL1slK8SYCzYIERXA=s800-c-k-c0xffffffff-no-rj-mo"
+          }
+        },
+        "channelTitle": "LoL Esports",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-09-27T22:35:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "N6MmDovjsn46dFJx72EiIMTq2gA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "s50BLwFYeYw"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-30T02:13:58Z",
+        "channelId": "UCkIimWZ9gBJRamKF0rmPU8w",
+        "title": "*. LOL┊あじみthe amamya２０２５、開幕ˎˊ˗（　天宮こころ / にじさんじ　）",
+        "description": "アムムから離れられないからだにされちゃった ＼ ᴘʟᴀʏʟɪsᴛ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/s50BLwFYeYw/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/s50BLwFYeYw/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/s50BLwFYeYw/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "天宮 こころ / Amamya Ch.",
+        "liveBroadcastContent": "live",
+        "publishTime": "2025-01-30T02:13:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PgXlANLv3GRnj8k0zKInqlU3QWI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "I76wvt0aEE4"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-07T15:55:06Z",
+        "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+        "title": "Welcome to Noxus - Bite Marks (ft. TEYA) | 2025 Season 1 Cinematic - League of Legends",
+        "description": "Are you strong enough? Prove it. Season 1 of 2025 is live January 9th @ 12 PM PST. Video created in partnership with Fortiche.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/I76wvt0aEE4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/I76wvt0aEE4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/I76wvt0aEE4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "League of Legends",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-07T15:55:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EgXEYt_hagAIIPUC0S_8wWNupXo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mr2GMdJ6Qjg"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-29T13:32:14Z",
+        "channelId": "UCiKNX0TIMyKgGqQznhR1Xig",
+        "title": "Yeh Wala Khana Sab Khate Hai | Bharti Singh | Haarsh Limbachiyaa | Golla",
+        "description": "Dekhiye Hamara Fresh New Content Only On Bharti TV* ⬇ ▶️ Haarsh Limbachiyaa's New Channel : ‪@haarshlimbaachiyaX‬ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mr2GMdJ6Qjg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mr2GMdJ6Qjg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mr2GMdJ6Qjg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LOL (Life of Limbachiyaa’s)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-29T13:32:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qkHNS50eoCNu0guZtgday1arC44",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zKggmzqjeK0"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-29T20:30:04Z",
+        "channelId": "UCMp55EbT_ZlqiMS3lCj01BQ",
+        "title": "【League of Legends The k4sen】 ワニワニパニック🐊【ぶいすぽ/神成きゅぴ】",
+        "description": "サムネイルイラスト→https://x.com/watch_a_video さん！ 日程 1/27(Mon) 19:00 // お試し1試合→BanPick→練習 1/28(Tue) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zKggmzqjeK0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zKggmzqjeK0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zKggmzqjeK0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "神成きゅぴ / Kaminari Qpi",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-29T20:30:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kb6-JkBee58qj7Kih10igW6ZZ6Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iwEAK5wsWLg"
+      },
+      "snippet": {
+        "publishedAt": "2024-11-02T18:35:31Z",
+        "channelId": "UCdOWyp25T0HDtjpnV2LpIyw",
+        "title": "T1 vs BLG - Game 5 | Grand Final LoL Worlds 2024 | T1 vs Bilibili Gaming G5 full",
+        "description": "full game finals BLG vs T1 G5 lol worlds 2024 finals - Bilibili Gaming vs T1 Game 5 of Season 14 lol eSports World Championship ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iwEAK5wsWLg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iwEAK5wsWLg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iwEAK5wsWLg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "EpicSkillshot - LoL VOD Library",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-11-02T18:35:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "apGNuP2mPQ1RHIA0pId3u8FrnXw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fw1PJQyCltI"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-28T13:30:59Z",
+        "channelId": "UCiKNX0TIMyKgGqQznhR1Xig",
+        "title": "Rupa Didi Ka Birthday Bhool Gaye Sab | Bharti Singh | Haarsh Limbachiyaa | Golla",
+        "description": "Dekhiye Hamara Fresh New Content Only On Bharti TV* ⬇ ▶️ Haarsh Limbachiyaa's New Channel : ‪@haarshlimbaachiyaX‬ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fw1PJQyCltI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fw1PJQyCltI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fw1PJQyCltI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LOL (Life of Limbachiyaa’s)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-28T13:30:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rDim3i0D7_PFyVoxlfRFZKNK9Gs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "eg9xNgNzDIc"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-29T22:07:48Z",
+        "channelId": "UCwV1tQmFyrFfl29BU5cJK4A",
+        "title": "My Worst Period Ever!",
+        "description": "Subscribe To Our Other Channels! LOL Club: https://www.youtube.com/@LOLClubTv LOL Music: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eg9xNgNzDIc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eg9xNgNzDIc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eg9xNgNzDIc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LOL Podcast ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-29T22:07:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3w5RWpvh_xJN7ocCixMmeH3FAdk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DJ5X5-9A7vE"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-29T19:30:09Z",
+        "channelId": "UCjXBuHmWkieBApgBhDuJMMQ",
+        "title": "【 LOL 】アタックダメージキャリー！！🌳the k4sen 本番🌳【ぶいすぽ/八雲べに】",
+        "description": "୨୧┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈୨୧ illustration https://x.com/watch_a_video ありがとうございます！",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DJ5X5-9A7vE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DJ5X5-9A7vE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DJ5X5-9A7vE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "八雲べに",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-29T19:30:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "X4Ttlg-FVarRWGDlzhJwHjWtvGw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xnJuf6zOl_I"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-27T12:30:54Z",
+        "channelId": "UCFl1mGlf5j0Qno1Kxnyv6FA",
+        "title": "NEW UPDATED TIER LIST for PATCH S1.2 - League of Legends",
+        "description": "WEBSITE: https://www.skill-capped.com/lol#updateS12 ▻SUBSCRIBE: http://goo.gl/kGvFCu ▻DISCORD: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xnJuf6zOl_I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xnJuf6zOl_I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xnJuf6zOl_I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Skill Capped Challenger LoL Guides",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-27T12:30:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ejj2jhVUJ58IcHtdcliNYZvlcBM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "eG3wOQwb_Cg"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-29T15:00:52Z",
+        "channelId": "UCocC5SBL6ETzSJct2hueuEw",
+        "title": "MEJORES PICKS Y CAMPEONES OP - PARCHE 25.S1.2 League of Legends 2025. BUILDS OP de la Temporada 15!",
+        "description": "Que tal a todos los hermosos feeders de league of legends! Estamos aquí con otro video, sobre los mejores picks y campeones ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eG3wOQwb_Cg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eG3wOQwb_Cg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eG3wOQwb_Cg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Solo Feeders",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-29T15:00:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "b1_mG8bGxziCpoWFIbfA4VAnmZw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "y5Xedy3-Zf8"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-27T13:31:31Z",
+        "channelId": "UCiKNX0TIMyKgGqQznhR1Xig",
+        "title": "NCC Wale Doston Ki Yaad Aagayi | Bharti Singh | Haarsh Limbachiyaa | Golla",
+        "description": "Dekhiye Hamara Fresh New Content Only On Bharti TV* ⬇ ▶️ Haarsh Limbachiyaa's New Channel : @haarshlimbaachiyaX ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/y5Xedy3-Zf8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/y5Xedy3-Zf8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/y5Xedy3-Zf8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LOL (Life of Limbachiyaa’s)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-27T13:31:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "m7E7RpF0guqqOls4P_SPvzHXepU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zx0xbVxkZdc"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-25T22:31:38Z",
+        "channelId": "UC48rkTlXjRd6pnqqBkdV0Mw",
+        "title": "LTA Sul: Semana 1, Dia 1",
+        "description": "Assista à estreia da #LTASul neste sábado, dia 25 de janeiro de 2025. As partidas serão disputadas no modo Fearless Draft, em ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zx0xbVxkZdc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zx0xbVxkZdc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zx0xbVxkZdc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LTA Sul",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-25T22:31:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "b3JgTIGBdqctc4FwwSftEEjZ4Og",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PTFJ1qQVtAc"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-26T11:03:28Z",
+        "channelId": "UCw1DsweY9b2AKGjV4kGJP1A",
+        "title": "T1 vs NS - BRO vs KT | 2025 LCK CUP 그룹 배틀",
+        "description": "LCK #HouseofLegends ✓ LIVE & LIVE VOD - LoL e스포츠 홈페이지: https://lolesports.com/ - 네이버: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PTFJ1qQVtAc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PTFJ1qQVtAc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PTFJ1qQVtAc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LCK",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-26T11:03:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SiZn4sRiCZafUFM2z8Notb-b0w8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "H1z1Bi8jQGM"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-29T21:47:34Z",
+        "channelId": "UCw2BbZcj2jAGiceDKKeYU7g",
+        "title": "J8 - FASE REGULAR - SUPERLIGA DOMINO&#39;S - INVIERNO 2025",
+        "description": "La Superliga Domino's vuelve en 2025 con formato renovado y los mejores equipos. Barça eSports, GIANTX Pride, Guasones, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/H1z1Bi8jQGM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/H1z1Bi8jQGM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/H1z1Bi8jQGM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LVPesLoL",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-29T21:47:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zkJ3A3QAsYu2l2iK9y8EffPrA7w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vSS8N0h5ATk"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-25T15:55:40Z",
+        "channelId": "UChG2EWuXoW7Tgof35WjbsnQ",
+        "title": "MVKE vs SHG (BO3) | GAM vs CFO (BO3) | Khởi Động Mùa Giải LCP 2025 - Tuần 2 Ngày 2",
+        "description": "Cùng theo dõi các trận của LCP 2025 hôm nay nhé! ▻ Đăng ký kênh để cập nhật các thông tin về VCS một cách mới nhất: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vSS8N0h5ATk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vSS8N0h5ATk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vSS8N0h5ATk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LoL Esports VN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-25T15:55:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UwVjLGIs_gexCX8ZfC2aD-8ZmZA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2HmPVroJ7fI"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-26T12:32:56Z",
+        "channelId": "UCKVlixycWmapnGQ_wht4cHQ",
+        "title": "T1 vs NS - BRO vs KT | 2025 LCK CUP Group Battle",
+        "description": "LCK #HouseofLegends ✓ Watch LCK live on... ENG - http://twitch.tv/LCK FRE - http://twitch.tv/otplol_ VNM ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2HmPVroJ7fI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2HmPVroJ7fI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2HmPVroJ7fI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LCK Global",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-26T12:32:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "u1AV_NRAx0Pg_c0NKUNWHKTNL1U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sYAC5G8wC_s"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-26T00:59:52Z",
+        "channelId": "UCSF_aFGIIIoWY30GVV19TKA",
+        "title": "FLY vs SR | LYON vs C9 - 2025 LTA North Split 1 - Week 1 Day 1",
+        "description": "The LTA North is here! Every game on the live patch, every match on the weekend, and every best-of series in Split 1 will feature ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sYAC5G8wC_s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sYAC5G8wC_s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sYAC5G8wC_s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LTA North",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-26T00:59:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7hDhg_NapLfjLwMKTz5qfdfZzl0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qAvxpY4HQb8"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-29T19:21:14Z",
+        "channelId": "UCyDqQcYgUB3MZoU60hMTEZQ",
+        "title": "BLDP🆚ULF — BJK🆚EF— SUP🆚BW— BGT🆚MISA —  KIŞ MEVSİMİ 2.HAFTA 1.GÜN",
+        "description": "GAMEON League of Legends Türkiye Şampiyonluk Ligi - Kış Mevsimi 2. Hafta 1. Gün Bugün, League of Legends Türkiye ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qAvxpY4HQb8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qAvxpY4HQb8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qAvxpY4HQb8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ESA Esports",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-29T19:21:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "n5hEA9yI_w-mp87jDCFCBQUY_dk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "u-0YNzHdjGc"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-27T20:56:41Z",
+        "channelId": "UCMp55EbT_ZlqiMS3lCj01BQ",
+        "title": "【League of Legends The k4sen】かせにゃん私たちに知識を授けてください【ぶいすぽ/神成きゅぴ】",
+        "description": "日程 1/27(Mon) 19:00 // お試し1試合→BanPick→練習 1/28(Tue) 19:00 // 練習 1/29(Wed) 19:00 // 本番 [BO3] 配信 本 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/u-0YNzHdjGc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/u-0YNzHdjGc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/u-0YNzHdjGc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "神成きゅぴ / Kaminari Qpi",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-27T20:56:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "axyse0NeUoASUBnlDVGYUpmS5ug",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UCZtmNrG53nmbq-Ww2VJrxEQ"
+      },
+      "snippet": {
+        "publishedAt": "2013-12-20T20:54:58Z",
+        "channelId": "UCZtmNrG53nmbq-Ww2VJrxEQ",
+        "title": "League of Legends - Topic",
+        "description": "League of Legends is a team-based strategy game where two teams of five powerful champions face off to destroy the other's ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/VJETRy7ICQR69AtpdwDlwhMnmNlP1w3Flam1sd9poZccbWOXwLuAvRvV3fZAzpuIBJpRvE6W=s88-c-k-c0xffffffff-no-rj-mo"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/VJETRy7ICQR69AtpdwDlwhMnmNlP1w3Flam1sd9poZccbWOXwLuAvRvV3fZAzpuIBJpRvE6W=s240-c-k-c0xffffffff-no-rj-mo"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/VJETRy7ICQR69AtpdwDlwhMnmNlP1w3Flam1sd9poZccbWOXwLuAvRvV3fZAzpuIBJpRvE6W=s800-c-k-c0xffffffff-no-rj-mo"
+          }
+        },
+        "channelTitle": "League of Legends - Topic",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-12-20T20:54:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5U2aUeLOzV7IcAPA6lfv4cnWASw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QxBwo6zLCj4"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-21T13:30:21Z",
+        "channelId": "UCiKNX0TIMyKgGqQznhR1Xig",
+        "title": "Kashmera Ke Khane Ne Mere Hosh Uda Diye | Bharti Singh | Haarsh Limbachiyaa | Golla",
+        "description": "Dekhiye Hamara Fresh New Content Only On Bharti TV* ⬇ ▶️ Haarsh Limbachiyaa's New Channel : ‪@haarshlimbaachiyaX‬ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QxBwo6zLCj4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QxBwo6zLCj4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QxBwo6zLCj4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LOL (Life of Limbachiyaa’s)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-21T13:30:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "l5umGapzCkjBIdCnYLwQHarkMH8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SGJGw-QFeJE"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-09T15:00:35Z",
+        "channelId": "UCLEYiFCGszIbMd7i-6-CS6w",
+        "title": "Squid Game 2: Family of Dolls LOL! 32 DIYs",
+        "description": "https://youtu.be/L9qhzIyrhas?list=PLecAHEMLqIl8nFTP1COHDl27n-yhF1YEM&playnext=1 | Turn on ALL notifications Join us as ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SGJGw-QFeJE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SGJGw-QFeJE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SGJGw-QFeJE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LaLiLu Land",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-09T15:00:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "--cja1GN-fNKITn6dnBnJ6NW4Og",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rxv21sBk4gY"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-27T21:26:39Z",
+        "channelId": "UCrVy6DftnQ3goFU5lXIWBSw",
+        "title": "KOI SE ENFRENTA AL PEOR EQUIPO!😱 *SORPRESA?* - SK vs KOI LEC INVIERNO 2025 ESPAÑOL KNEKRO COSTREAM",
+        "description": "SK GAMING vs MOVISTAR KOI LEC INVIERNO 2025 ESPAÑOL KNEKRO COSTREAM - SK vs KOI LEC INVIERNO 2025 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rxv21sBk4gY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rxv21sBk4gY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rxv21sBk4gY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LOL ESPORTS VODS ESPAÑOL CASTEOS IBAI",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-27T21:26:39Z"
+      }
+    }
+  ]
+}
