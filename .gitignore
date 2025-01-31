@@ -35,6 +35,7 @@ Temporary Items
 *.icloud
 
 ### react ###
+.env
 .DS_*
 *.log
 logs
