@@ -9,6 +9,7 @@ export default function ChannelInfo({ id, name }) {
     queryFn: () => {
       return youtube.channelImageURL(id);
     },
+    staleTime: 1000 * 60 * 5,
   });
 
   return (

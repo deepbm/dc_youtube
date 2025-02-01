@@ -10,6 +10,7 @@ export default function ChannelVideos({ id }) {
     queryFn: () => {
       return youtube.searchChannel(id);
     },
+    staleTime: 1000 * 60 * 5,
   });
 
   if (isPending) return 'Loading...';
