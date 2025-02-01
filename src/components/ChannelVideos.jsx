@@ -5,11 +5,7 @@ import VideoCard from './VideoCard';
 
 export default function ChannelVideos({ id }) {
   const { youtube } = useYoutubeApi();
-  const {
-    isPending,
-    error,
-    data: videos,
-  } = useQuery({
+  const { isPending, data: videos } = useQuery({
     queryKey: ['searchChannel', id],
     queryFn: () => {
       return youtube.searchChannel(id);
@@ -22,7 +18,7 @@ export default function ChannelVideos({ id }) {
     <>
       <ul className=''>
         {videos.map(video => (
-          <VideoCard key={video.id} video={video} />
+          <VideoCard key={video.id} video={video} type='list' />
         ))}
       </ul>
     </>
